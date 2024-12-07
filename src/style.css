@@ -1,0 +1,10 @@
+#game-container{
+  display: grid;
+  place-items: center;
+  /* padding: 4rem; */
+}
+
+/* *{
+  padding: 0;
+  margin: 0;
+} */
